@@ -135,6 +135,14 @@
             <systemPath>${basedir}/src/main/webapp/WEB-INF/lib/ojdbc-14.jar</systemPath>
         </dependency>
         -->
+		
+	<dependency>
+		<groupId>egovframework.rte</groupId>
+		<artifactId>spring-modules-validation</artifactId>
+		<version>0.9</version>
+	</dependency>		
+		
+		
 	</dependencies>
 
 	<build>
