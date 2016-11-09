@@ -48,6 +48,10 @@
 		    		<artifactId>commons-logging</artifactId>
 		    		<groupId>commons-logging</groupId>
 		    	</exclusion>
+			<exclusion>
+				<artifactId>spring-modules-validation</artifactId>
+				<groupId>org.springmodules</groupId>
+			</exclusion>				
 		    </exclusions>
         </dependency>
         <dependency>
